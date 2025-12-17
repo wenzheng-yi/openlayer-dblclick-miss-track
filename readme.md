@@ -1,4 +1,4 @@
-My url only works in LAN, so you need to fill an url in main.js.
+My URL only works on a LAN, so you need to set the URL in main.js.
 ```javascript
 export const testData = {
   newImgUrl: '',  // your url
